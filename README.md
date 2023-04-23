@@ -21,12 +21,13 @@ One aspect of this project that I found particularly difficult was the implement
 
 ## How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
-
+After the code was refactored, I ran another dependency check to make sure everything was still up to date. 
 
 ## What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
-
+One tool that I found useful was the maven dependency checker I thought this was a neat tool and since I do a lot of Java programming I’m sure I’ll revisit this tool in my future computer science endeavors.
 
 ## Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
+One thing that I would show my future employers from this assignment would be how accurate and concise the final report that I gave was, I made sure to list all the errors that I located and corrected and how those corrections were implemented and how they will make the software more secure.
   
